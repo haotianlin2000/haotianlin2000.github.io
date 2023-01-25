@@ -3,6 +3,7 @@ title: Haotian LIN
 description: 'Haotian LIN personal page'
 url: 'http://https://haotianlin2000.github.io/'
 baseurl: ''
+profilepic: '/images/htlin profile photo.png'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
